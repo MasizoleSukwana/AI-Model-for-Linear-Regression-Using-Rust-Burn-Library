@@ -16,3 +16,11 @@ git add linear_regression.py
 git commit -m "Added linear regression model"
 git branch -M main
 git push -u origin main
+
+The challenges faced with this project is that the code could not run successfully, initially, when the code was set up in Rust Rover, there was an error when Building the code
+![image](https://github.com/user-attachments/assets/3e34ed7e-0a4b-47c6-a792-adc230194c4a)
+
+Upon investigating the error, an additional application such as Visual Studio was required, which unfortunatelly, i could not install because the laptop i am working on is a Work laptop and requires Admin rights for some installations.
+Another challenge was that, i have never worked with Rust Rover before, i am not a programmer, so everything i had to figure out with the assistance of ChatGPT
+
+I have learned to navigate through the AI Tools such as ChatGPT to do setup on the applications involved, including GitHub. I have also relied on the AI tools to get the code that i could use to generate the linear regression model
